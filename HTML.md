@@ -1,8 +1,7 @@
 # HTML
 
-HTML stands for Hyper Text Markup Language.
+HTML stands for Hyper Text Markup Language.  
 [Mini Project 1: VS Code Clone using HTML](/.VS-CloneHTML.md)
-akshat
 
 * head: This tag contains all the meta data, i.e. data which is not displayed on the screen
 * body: This tag contains all the data on the main page
