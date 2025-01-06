@@ -1,7 +1,7 @@
 # HTML
 
 ### Projects
-- [Mini Project 1: VS Code Clone using HTML](VS-CloneHTML.md)  
+- [Mini Project 1: VS Code Clone using HTML](VS-CloneHTML.html)  
 
 
     
