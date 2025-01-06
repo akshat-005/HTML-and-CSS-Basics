@@ -1,8 +1,11 @@
 # HTML
 
+### Projects
 - [Mini Project 1: VS Code Clone using HTML](/.VS-CloneHTML.md)  
 
 
+    
+### Notes
 HTML stands for Hyper Text Markup Language.  
 
 * head: This tag contains all the meta data, i.e. data which is not displayed on the screen
